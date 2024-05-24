@@ -2,6 +2,6 @@
 
 Meu nome é Giselle
 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScipt
--Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+_Estou estudando na Alura
+_Estou me desenvolvendo na linguagem JavaScipt
+_Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
